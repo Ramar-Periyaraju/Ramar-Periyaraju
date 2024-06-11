@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ramar-Periyaraju
-- 👀 I’m interested in Full Stack Development- Pega-Architect, delivery
+- 👀 I’m a Pega-Architect, delivery
 - 🌱 I’m currently learning Pega Constellation using DX
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me- ramar.periyaraju@gmail.com
